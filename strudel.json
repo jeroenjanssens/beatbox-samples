@@ -1,0 +1,75 @@
+{
+  "_base": "https://raw.githubusercontent.com/jeroenjanssens/beatbox-samples/main/",
+  "bass": [
+    "wav/bass1.wav",
+    "wav/bass2.wav",
+    "wav/bass3.wav",
+    "wav/bass4.wav"
+  ],
+  "clap": "wav/clap.wav",
+  "crash": [
+    "wav/crash1.wav",
+    "wav/crash2.wav",
+    "wav/crash3.wav"
+  ],
+  "explosion": "wav/explosion.wav",
+  "fart": "wav/fart.wav",
+  "freestyle": "wav/freestyle.wav",
+  "goldenarches": "wav/goldenarches.wav",
+  "hehe": "wav/hehe.wav",
+  "hihat": [
+    "wav/hihat1.wav",
+    "wav/hihat2.wav"
+  ],
+  "kick": [
+    "wav/kick1.wav",
+    "wav/kick2.wav",
+    "wav/kick3.wav"
+  ],
+  "laser": [
+    "wav/laser1.wav",
+    "wav/laser2.wav",
+    "wav/laser3.wav",
+    "wav/laser4.wav"
+  ],
+  "loop": [
+    "wav/loop1.wav",
+    "wav/loop2.wav",
+    "wav/loop3.wav",
+    "wav/loop4.wav"
+  ],
+  "ohyeah": "wav/ohyeah.wav",
+  "onetwothree": "wav/onetwothree.wav",
+  "peacock": "wav/peacock.wav",
+  "plummer": "wav/plummer.wav",
+  "scratch": [
+    "wav/scratch1.wav",
+    "wav/scratch2.wav",
+    "wav/scratch3.wav",
+    "wav/scratch4.wav"
+  ],
+  "shamone": "wav/shamone.wav",
+  "snap": "wav/snap.wav",
+  "snare": [
+    "wav/snare1.wav",
+    "wav/snare2.wav",
+    "wav/snare3.wav",
+    "wav/snare4.wav",
+    "wav/snare5.wav",
+    "wav/snare6.wav"
+  ],
+  "swish": "wav/swish.wav",
+  "tom": [
+    "wav/tom1.wav",
+    "wav/tom2.wav",
+    "wav/tom3.wav"
+  ],
+  "trumpet": [
+    "wav/trumpet1.wav",
+    "wav/trumpet2.wav",
+    "wav/trumpet3.wav",
+    "wav/trumpet4.wav"
+  ],
+  "uhuh": "wav/uhuh.wav",
+  "winddown": "wav/winddown.wav"
+}
